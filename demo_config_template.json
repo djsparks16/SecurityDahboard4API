@@ -1,0 +1,26 @@
+{
+  "demo_mode": false,
+  "poll_seconds": 8,
+  "microsoft": {
+    "tenant_id": "",
+    "client_id": "",
+    "client_secret": "",
+    "enabled": false
+  },
+  "unifi": {
+    "base_url": "https://api.ui.com",
+    "api_key": "",
+    "site_id": "",
+    "enabled": false
+  },
+  "datto": {
+    "api_url": "https://vidal-api.centrastage.net",
+    "access_token": "",
+    "enabled": false
+  },
+  "rocketcyber": {
+    "base_url": "https://api-us.rocketcyber.com",
+    "api_key": "",
+    "enabled": false
+  }
+}
